@@ -1,0 +1,22 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Model weights (downloaded automatically by Ultralytics on first run)
+*.pt
+
+# Large local media and personal notes
+parking_sample.mp4
+*.docx
+
+# Ultralytics output
+runs/
+
+# IDE / OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
